@@ -20,16 +20,16 @@ Categories/Taxonomies addon for the AFC Wordpress plugin http://www.advancedcust
 1. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently asked questions ==
-
+Please report requests on https://github.com/cubeweb/acf-categories/issues?state=open
 
 
 == Screenshots ==
 
-1. http://www.cubeweb.gr/wp-projects/previews/categories_1.png
-2. http://www.cubeweb.gr/wp-projects/previews/categories_2.png
-3. http://www.cubeweb.gr/wp-projects/previews/categories_3.png
-4. http://www.cubeweb.gr/wp-projects/previews/categories_4.png
-5. http://www.cubeweb.gr/wp-projects/previews/categories_5.png
+1. screenshot-1.png
+2. screenshot-2.png
+3. screenshot-3.png
+4. screenshot-4.png
+5. screenshot-5.png
 
 == Changelog ==
 
