@@ -45,6 +45,6 @@ Categories/Taxonomies addon for the AFC Wordpress plugin http://www.advancedcust
 
 **Requires ACF 4.0 and above**
 
-== Arbitrary section 1 ==
-
+== Arbitrary section ==
+**Requires ACF 4.0 and above**
 **Please report any bugs or requests on https://github.com/cubeweb/acf-categories/issues?state=open**
