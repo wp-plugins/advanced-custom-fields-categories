@@ -12,11 +12,12 @@ Categories/Taxonomies addon for the AFC Wordpress plugin http://www.advancedcust
 
 == Description ==
 
-=Categories/Taxonomies addon for the AFC Wordpress plugin http://www.advancedcustomfields.com=
+Categories/Taxonomies addon for the AFC Wordpress plugin http://www.advancedcustomfields.com
 
-=**Requires ACF 4.0 and above**=
+**Requires ACF 4.0 and above**
 
-=Known Issues=
+**Known Issues**
+
 When inside a repeater field, after you try to add a new row, chosen doesn't work correctly. You need to update post to see the correct results.
 
 == Installation ==
