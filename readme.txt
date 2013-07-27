@@ -31,8 +31,8 @@ Categories/Taxonomies addon for the AFC Wordpress plugin http://www.advancedcust
 
 == Installation ==
 
-* Upload acf-categories folder to the \`/wp-content/plugins/\` directory
-* Activate the plugin through the \'Plugins\' menu in WordPress
+* Upload acf-categories folder to the `wp-content/plugins` directory
+* Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
 
