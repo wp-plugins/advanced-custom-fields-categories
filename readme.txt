@@ -33,7 +33,7 @@ Categories/Taxonomies addon for the AFC Wordpress plugin http://www.advancedcust
 **Requires ACF 4.0 and above**
 
 = Usage =
-Use get_field function or get_sub_field function if inside a repeater field.
+Use get_field function or get_sub_field function if inside a repeater field. Returns taxonomy object.
 
 == Installation ==
 
@@ -55,8 +55,6 @@ Please report requests on https://github.com/cubeweb/acf-categories/issues?state
  = 2.0.0.0 Beta =
 * [Added] Compatibility with ACF 4.0
 * [Added] Chosen support
-* [Added] Returns taxonomy object. Use 'get_field' or 'get_sub_field' function.
-
 
 = 2.0.0.1 Beta =
 * [Added] mp6 admin theme option
