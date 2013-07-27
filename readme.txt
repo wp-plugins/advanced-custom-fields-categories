@@ -15,8 +15,7 @@ Categories/Taxonomies addon for the AFC Wordpress plugin http://www.advancedcust
 
 **Please back up first, this addon is still in Beta**
 
-**Options**
-
+= Options =
 * Post Type
 * Child Of
 * Parent
@@ -29,6 +28,12 @@ Categories/Taxonomies addon for the AFC Wordpress plugin http://www.advancedcust
 * Exclude Categories
 * Multiple Values
 * Start State
+
+= Upgrade notice =
+**Requires ACF 4.0 and above**
+
+= Usage =
+Use get_field function or get_sub_field function if inside a repeater field.
 
 == Installation ==
 
@@ -63,8 +68,6 @@ Please report requests on https://github.com/cubeweb/acf-categories/issues?state
 * [Added] Multiple: Select All button
 * [Added] Multiple: Clear All button
 * [Added] Multiple: Select Select Main Categories button
-* [Added] Multiple: Show/Hide categories button* [Added] Requires ACF 4.0 and above
-* [Added] Please report any bugs or requests on https://github.com/cubeweb/acf-categories/issues?state=open
 
 == Upgrade notice ==
 
