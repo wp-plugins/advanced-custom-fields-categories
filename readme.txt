@@ -13,7 +13,7 @@ Categories/Taxonomies addon for the AFC Wordpress plugin http://www.advancedcust
 
 Categories/Taxonomies addon for the AFC Wordpress plugin http://www.advancedcustomfields.com
 
-** Please back up first, this addon is still in Beta **
+**<span style=\"text-decoration: underline;\">Please back up first, this addon is still in Beta</span>**
 
 **Options**
 
@@ -37,10 +37,11 @@ Categories/Taxonomies addon for the AFC Wordpress plugin http://www.advancedcust
 == Frequently Asked Questions ==
 
 Please report requests on https://github.com/cubeweb/acf-categories/issues?state=open
+
 == Screenshots ==
-screenshot-1.png
-screenshot-2.png
-screenshot-3.png
+1. screenshot-1.png
+2. screenshot-2.png
+3. screenshot-3.png
 
 == Changelog ==
 **2.0.0.0 Beta**
@@ -61,17 +62,13 @@ screenshot-3.png
 
 *   mp6 admin theme option
 
- 
-
 **2.0.0.2 Beta**
 
 <span style=\"text-decoration: underline;\">**Removed**</span>
-
 *   Chosen plug-in. After a talk with the chosen team I understood that chosen will not work correctly inside the repeater field.
 *   Mp6 admin theme option. Since there is no chosen anym ore there is no reason for that option.
 
 **<span style=\"text-decoration: underline;\">Added</span>**
-
 *   Multiple checkboxes
 *   Multiple: Select All button
 *   Multiple: Clear All button
