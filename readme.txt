@@ -16,6 +16,7 @@ Categories/Taxonomies addon for the AFC Wordpress plugin http://www.advancedcust
 **Please back up first, this addon is still in Beta**
 
 **Options**
+
 * Post Type
 * Child Of
 * Parent
@@ -46,32 +47,24 @@ Please report requests on https://github.com/cubeweb/acf-categories/issues?state
 
 == Changelog ==
 
-**2.0.0.0 Beta**
-
-**Added**
-* Compatibility with ACF 4.0
-* Chosen support
-* Returns taxonomy object. Use 'get_field' or 'get_sub_field' function.
+ = 2.0.0.0 Beta =
+* [Added] Compatibility with ACF 4.0
+* [Added] Chosen support
+* [Added] Returns taxonomy object. Use 'get_field' or 'get_sub_field' function.
 
 
-**2.0.0.1 Beta**
+= 2.0.0.1 Beta =
+* [Added] mp6 admin theme option
 
-**Added**
-* mp6 admin theme option
-
-**2.0.0.2 Beta**
-
-**Removed**
-* Chosen plug-in. After a talk with the chosen team I understood that chosen will not work correctly inside the repeater field.
-* Mp6 admin theme option. Since there is no chosen anym ore there is no reason for that option.
-
-**Added**
-* Multiple checkboxes
-* Multiple: Select All button
-* Multiple: Clear All button
-* Multiple: Select Select Main Categories button
-* Multiple: Show/Hide categories button* Requires ACF 4.0 and above
-* Please report any bugs or requests on https://github.com/cubeweb/acf-categories/issues?state=open
+= 2.0.0.2 Beta =
+* [Removed] Chosen plug-in. After a talk with the chosen team I understood that chosen will not work correctly inside the repeater field.
+* [Removed] Mp6 admin theme option. Since there is no chosen anym ore there is no reason for that option.
+* [Added] Multiple checkboxes
+* [Added] Multiple: Select All button
+* [Added] Multiple: Clear All button
+* [Added] Multiple: Select Select Main Categories button
+* [Added] Multiple: Show/Hide categories button* [Added] Requires ACF 4.0 and above
+* [Added] Please report any bugs or requests on https://github.com/cubeweb/acf-categories/issues?state=open
 
 == Upgrade notice ==
 
