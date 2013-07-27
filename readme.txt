@@ -13,68 +13,65 @@ Categories/Taxonomies addon for the AFC Wordpress plugin http://www.advancedcust
 
 Categories/Taxonomies addon for the AFC Wordpress plugin http://www.advancedcustomfields.com
 
-**<span style=\"text-decoration: underline;\">Please back up first, this addon is still in Beta</span>**
+**Please back up first, this addon is still in Beta**
 
 **Options**
-
-*   Post Type
-*   Child Of
-*   Parent
-*   Order By
-*   Order
-*   Hide Empty
-*	Hierarchical
-*	Taxonomy
-*	Include Categories
-*	Exclude Categories
-*	Multiple Values
-*	Start State
+* Post Type
+* Child Of
+* Parent
+* Order By
+* Order
+* Hide Empty
+* Hierarchical
+* Taxonomy
+* Include Categories
+* Exclude Categories
+* Multiple Values
+* Start State
 
 == Installation ==
 
-*   Upload acf-categories folder to the \`/wp-content/plugins/\` directory
-*   Activate the plugin through the \'Plugins\' menu in WordPress
+* Upload acf-categories folder to the \`/wp-content/plugins/\` directory
+* Activate the plugin through the \'Plugins\' menu in WordPress
+
 == Frequently Asked Questions ==
 
 Please report requests on https://github.com/cubeweb/acf-categories/issues?state=open
 
 == Screenshots ==
+
 1. screenshot-1.png
 2. screenshot-2.png
 3. screenshot-3.png
 
 == Changelog ==
+
 **2.0.0.0 Beta**
 
-**<span style=\"text-decoration: underline;\">Added</span>**
+**Added**
+* Compatibility with ACF 4.0
+* Chosen support
+* Returns taxonomy object. Use 'get_field' or 'get_sub_field' function.
 
-*   Compatibility with ACF 4.0
-*   Chosen support
-*   Returns taxonomy object. Use only \'get_field\' function.
-
-<div>
-  <br />
-</div>
 
 **2.0.0.1 Beta**
 
-**<span style=\"text-decoration: underline;\">Added</span>**
-
-*   mp6 admin theme option
+**Added**
+* mp6 admin theme option
 
 **2.0.0.2 Beta**
 
-<span style=\"text-decoration: underline;\">**Removed**</span>
-*   Chosen plug-in. After a talk with the chosen team I understood that chosen will not work correctly inside the repeater field.
-*   Mp6 admin theme option. Since there is no chosen anym ore there is no reason for that option.
+**Removed**
+* Chosen plug-in. After a talk with the chosen team I understood that chosen will not work correctly inside the repeater field.
+* Mp6 admin theme option. Since there is no chosen anym ore there is no reason for that option.
 
-**<span style=\"text-decoration: underline;\">Added</span>**
-*   Multiple checkboxes
-*   Multiple: Select All button
-*   Multiple: Clear All button
-*   Multiple: Select Select Main Categories button
-*   Multiple: Show/Hide categories button*   Requires ACF 4.0 and above
-*   Please report any bugs or requests on https://github.com/cubeweb/acf-categories/issues?state=open
+**Added**
+* Multiple checkboxes
+* Multiple: Select All button
+* Multiple: Clear All button
+* Multiple: Select Select Main Categories button
+* Multiple: Show/Hide categories button* Requires ACF 4.0 and above
+* Please report any bugs or requests on https://github.com/cubeweb/acf-categories/issues?state=open
 
 == Upgrade notice ==
 
