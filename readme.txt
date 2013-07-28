@@ -66,6 +66,7 @@ Please report requests on https://github.com/cubeweb/acf-categories/issues?state
 * [Added] Multiple: Select All button
 * [Added] Multiple: Clear All button
 * [Added] Multiple: Select Select Main Categories button
+* [Added] Multiple: Show/Hide Categories button
 
 == Upgrade notice ==
 
