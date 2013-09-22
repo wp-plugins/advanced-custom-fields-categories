@@ -13,8 +13,6 @@ Categories/Taxonomies addon for the AFC Wordpress plugin http://www.advancedcust
 
 Categories/Taxonomies addon for the AFC Wordpress plugin http://www.advancedcustomfields.com
 
-**Please back up first, this addon is still in Beta**
-
 = Options =
 * Post Type
 * Child Of
@@ -53,12 +51,12 @@ Please report requests on https://github.com/cubeweb/acf-categories/issues?state
 
 == Changelog ==
 
- = 2.0.0.0 Beta =
-* [Added] Compatibility with ACF 4.0
-* [Added] Chosen support
+= 2.0.0.4 =
+* [Updated] Compatibility for WordPress 3.6.1
 
-= 2.0.0.1 Beta =
-* [Added] mp6 admin theme option
+= 2.0.0.3 Beta =
+* [Fixed] Sometimes returns false when in repeater field
+* [Added] Display Posts Count Option
 
 = 2.0.0.2 Beta =
 * [Removed] Chosen plug-in. After a talk with the chosen team I understood that chosen will not work correctly inside the repeater field.
@@ -69,9 +67,12 @@ Please report requests on https://github.com/cubeweb/acf-categories/issues?state
 * [Added] Multiple: Select Select Main Categories button
 * [Added] Multiple: Show/Hide Categories button
 
-= 2.0.0.3 Beta =
-* [Fixed] Sometimes returns false when in repeater field
-* [Added] Display Posts Count Option
+= 2.0.0.1 Beta =
+* [Added] mp6 admin theme option
+
+= 2.0.0.0 Beta =
+* [Added] Compatibility with ACF 4.0
+* [Added] Chosen support
 
 == Upgrade notice ==
 
