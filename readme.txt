@@ -2,7 +2,7 @@
 Contributors: Cubeweb
 Tags: Advanced Custom Fields
 Requires at least: 3.5
-Tested up to: 3.6.1
+Tested up to: 3.7.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -50,6 +50,9 @@ Please report requests on https://github.com/cubeweb/acf-categories/issues?state
 3. screenshot-3.png
 
 == Changelog ==
+
+= 2.0.0.5 =
+* [Updated] Compatibility for WordPress 3.7.1
 
 = 2.0.0.4 =
 * [Updated] Compatibility for WordPress 3.6.1
