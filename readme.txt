@@ -51,6 +51,10 @@ Please report requests on https://github.com/cubeweb/acf-categories/issues?state
 
 == Changelog ==
 
+= 2.0.0.6 =
+* [Fixed] Warning thrown on categories-v4 - in_array on line 152, thanks to https://github.com/americandriversafety
+* [Added] Category link in post count indicator
+
 = 2.0.0.5 =
 * [Updated] Compatibility for WordPress 3.7.1
 
