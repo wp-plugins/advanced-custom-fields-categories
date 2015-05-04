@@ -1,8 +1,9 @@
 === Advanced Custom Fields Categories ===
 Contributors: Cubeweb
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U8K34PRA8BW9W
 Tags: Advanced Custom Fields
 Requires at least: 3.5
-Tested up to: 4.0
+Tested up to: 4.2.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -27,6 +28,7 @@ Categories/Taxonomies addon for the AFC Wordpress plugin http://www.advancedcust
 * Multiple Values
 * Start State
 * Display Posts Count
+* Update Post Categories (Beta)
 
 = Upgrade notice =
 **Requires ACF 4.0 and above**
@@ -50,6 +52,9 @@ Please report requests on https://github.com/cubeweb/acf-categories/issues?state
 3. screenshot-3.png
 
 == Changelog ==
+= 2.0.0.8 =
+* [Updated] Compatibility for WordPress 4.2.1
+* [Added] Sync with post categories (beta). Please sent your feedback here https://github.com/cubeweb/acf-categories/issues/6
 
 = 2.0.0.7 =
 * [Updated] Compatibility for WordPress 3.9.1
